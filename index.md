@@ -1,5 +1,3 @@
-# PNW 360 Cyber
-
 **Governance, Risk, and Compliance Engineering**
 
 PNW 360 Cyber helps organizations secure their digital assets, achieve compliance objectives, and improve risk posture through practical engineering and alignment with industry standards.
