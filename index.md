@@ -2,7 +2,7 @@
 
 **Governance, Risk, and Compliance Engineering**
 
-PNW 360 Cyber helps organizations improve cybersecurity posture through practical governance, compliance alignment, and risk-driven controls.
+PNW 360 Cyber helps organizations secure their digital assets, achieve compliance objectives, and improve risk posture through practical engineering and alignment with industry standards.
 
 ## What we do
 - CMMC readiness and program build-out  
@@ -11,4 +11,7 @@ PNW 360 Cyber helps organizations improve cybersecurity posture through practica
 - Risk assessments and compliance roadmaps  
 
 ## Contact
-Email: robert.wiley@pnw360cyber.com  
+📧 robert.wiley@pnw360cyber.com  
+
+© 2025 PNW 360 Cyber  
+All rights reserved.
